@@ -29,7 +29,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/console.png" width="45" height="45"/> </a> 
 </p>
-<br/>
 
 <h2 align="center"> 📊 My Github Stats </h2>
 <br/>
