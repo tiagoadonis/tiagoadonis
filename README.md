@@ -1,17 +1,16 @@
-## Hey, I'm Tiago Adónis 👋
+<h1 align="center"> 👋 Hey, I'm Tiago Adónis 👋 </h1>
 
-<!--
 - 🔭 I’m currently working on my master degree in Computers and Telematics Engineering
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning some ethical hacking skills
+- 👯 I’m looking to collaborate on interesting projects
+- ⚽ I'm the current vice-president of my local football referees' nuclei 
+- 💬 Ask me about football, coding and music
+- 📫 How to reach me: tiago.adonis@ua.pt
+- ⚡ Fun fact: I'm a football referee
 
-## 🚀 Languages and Tools
+<h2 align="center">🚀 Languages and Tools </h2>
 <br/>
+
 <p align="center"> 
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -30,8 +29,9 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/console.png" width="45" height="45"/> </a> 
 </p>
+<br/>
 
-## 📊 My Github Stats
+<h2 align="center"> 📊 My Github Stats </h2>
 <br/>
 
 <div align="center">
@@ -40,5 +40,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoadonis&langs_count=10&layout=compact&theme=react&bg_color=0D1117"/>
 </div>
 
-
 ![Snake animation](https://github.com/tiagoadonis/tiagoadonis/blob/output/github-contribution-grid-snake.svg)
+
