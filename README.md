@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my master degree in Computers and Telematics Engineering
 - 🌱 I’m currently learning some ethical hacking skills
 - 👯 I’m looking to collaborate on interesting projects
-- ⚽ I'm the current vice-president of my local football referees' nuclei 
 - 💬 Ask me about football, coding and music
 - 📫 How to reach me: tiago.adonis@ua.pt
 - ⚡ Fun fact: I'm a football referee
