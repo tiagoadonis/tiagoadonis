@@ -24,7 +24,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-basic.png"/> </a> 
     <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="45" height="45"/> </a> 
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png" width="65" height="53"/> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png" width="68" height="53"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://seeklogo.com/images/P/PostgreSQL_Inc-logo-09A7EFEB72-seeklogo.com.png" width="45" height="45"/> </a>
     <a href="https://www.influxdata.com" target="_blank"> <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" width="45" height="45"/> </a> 
     <a href="https://www.gns3.com" target="_blank"> <img src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" width="45" height="45"/> </a>
