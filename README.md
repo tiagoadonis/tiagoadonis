@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hey, I'm Tiago Adónis 👋 </h1>
 
-- 🔭 I’m currently working on my master degree in Computers and Telematics Engineering
+- 🔭 I've finished my master degree in Computers and Telematics Engineering
 - 🌱 I’m currently learning some ethical hacking skills
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about football, coding and music
