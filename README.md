@@ -45,5 +45,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoadonis&langs_count=10&layout=compact&theme=react&bg_color=0D1117"/>
 </div>
 
-![Snake animation](https://github.com/tiagoadonis/tiagoadonis/blob/output/github-contribution-grid-snake.svg)
-
